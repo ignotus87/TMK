@@ -43,6 +43,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Table\TMKGroups.sql" />
+    <Content Include="Table\TMKUserToGroup.sql" />
+    <Content Include="Table\TMKUsers.sql" />
+    <Content Include="Table\TMKTicketWork.sql" />
+    <Content Include="Table\TMKTicketComments.sql" />
     <Content Include="Table\TMKTickets.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
