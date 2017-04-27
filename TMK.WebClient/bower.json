@@ -1,0 +1,9 @@
+{
+	"name": "TMK.WebClient",
+	"private": true,
+  "dependencies": {
+    "Durandal": "durandal#^2.1.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
