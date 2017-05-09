@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Table\TMKGroups.sql" />
+    <Content Include="Table\TMKOrganizations.sql" />
     <Content Include="Table\TMKUserToGroup.sql" />
     <Content Include="Table\TMKUsers.sql" />
     <Content Include="Table\TMKTicketWork.sql" />
