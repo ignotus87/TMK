@@ -8,3 +8,5 @@ Planned features:
 * users can post requests
 * maintenance personnel get notified about new requests
 * issuing users get notified about the changes of their requests
+
+Contrubutions are welcome!
