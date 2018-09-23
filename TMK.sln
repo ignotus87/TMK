@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMK.Database", "TMK.Database\TMK.Database.csproj", "{389066B7-8F41-42A2-9639-EAF26933205E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMK.WebClient", "TMK.WebClient\TMK.WebClient.csproj", "{87D888A5-4406-4A48-8C21-CF9D12450C87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMK.WebClient", "TMK.WebClient\TMK.WebClient.csproj", "{2CD744F0-1E37-4449-A444-4772FAF7AF53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{389066B7-8F41-42A2-9639-EAF26933205E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389066B7-8F41-42A2-9639-EAF26933205E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{389066B7-8F41-42A2-9639-EAF26933205E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{87D888A5-4406-4A48-8C21-CF9D12450C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87D888A5-4406-4A48-8C21-CF9D12450C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87D888A5-4406-4A48-8C21-CF9D12450C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87D888A5-4406-4A48-8C21-CF9D12450C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD744F0-1E37-4449-A444-4772FAF7AF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD744F0-1E37-4449-A444-4772FAF7AF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD744F0-1E37-4449-A444-4772FAF7AF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD744F0-1E37-4449-A444-4772FAF7AF53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
